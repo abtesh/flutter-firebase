@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030361835160",
+    "project_id": "log-in-7d474",
+    "storage_bucket": "log-in-7d474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030361835160:android:e3e488c61ce54ba42bd2ed",
+        "android_client_info": {
+          "package_name": "com.example.erp_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030361835160-1c9var7bkco4eol3n0f2olnqnqcqpvs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3mFp57lFNlWhP7GPxB_h5Tb-PH3JPq4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030361835160-1c9var7bkco4eol3n0f2olnqnqcqpvs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
